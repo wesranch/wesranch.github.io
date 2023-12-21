@@ -1,2 +1,2 @@
-<div align="center"> # **Wesley E. Rancher**
-<div align="center"> # 
+<div align="center"> Wesley Rancher
+<div align="center"> 
